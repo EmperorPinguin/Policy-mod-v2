@@ -501,7 +501,7 @@
                 "name": "Maritime Infrastructure",
                 "uniques": [
                     "[+3 Production] [in all coastal cities]",
-                    "[+2 Production] from every [Fishing Boats]",
+                    "[+1 Production] from every [Fishing Boats]",
                 ],
                 "row": 1,
                 "column": 1
@@ -545,7 +545,7 @@
                 "uniques": [
                     "[+2] population [in all cities] <on foreign continents>",
                     "[+2 Happiness] [in all cities] <on foreign continents>",
-                    "[+2 Food] from every [Fishing Boats]",
+                    "[+1 Food] from every [Fishing Boats]",
                 ],
                 "requires": ["Merchant Navy"],
                 "row": 3,
