@@ -95,7 +95,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "[-25]% tile improvement construction time",
+                    "[-25]% construction time for [All] improvements",
                     "Free [Worker] appears"
                 ],
                 "row": 1,
@@ -719,7 +719,7 @@
             },
             {
                 "name": "Universal Suffrage",
-                "uniques": ["[+25]% Strength for cities"],
+                "uniques": ["[+33]% Strength for cities"],
                 "row": 1,
                 "column": 3
             },
@@ -799,8 +799,8 @@
             {
                 "name": "Police State",
                 "uniques": [
-"[Gold] cost of purchasing [All] units [-33]% [in all cities]",
-"[Gold] cost of purchasing [Courthouse] buildings [-50]% [in all cities]"
+                    "[Gold] cost of purchasing [Military] units [-33]%",
+                    "[Gold] cost of purchasing [Courthouse] buildings [-50]%"
                 ],
                 // There are also some uniques regarding espoinage, which as of this writing is not yet implemented
                 "requires": ["Militarism"],
