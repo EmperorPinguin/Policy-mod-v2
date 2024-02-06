@@ -948,7 +948,7 @@
             },
             {
                 "name": "Permaculture",
-                "requires": ["Forestry Management"],
+                "requires": ["Forest Management"],
                 "uniques": [
                     "[+1 Food] from every [Forest]",
                     "[+1 Food] from every [Jungle]",
