@@ -553,7 +553,7 @@
             },
             {
                 "name": "Exploration Complete",
-                "uniques": ["Free Great Person"]
+                "uniques": ["Empire enters golden age"]
             }
                 ]
 	},
@@ -568,7 +568,11 @@
             "Scientific": 0
         },
         "uniques": [
-                    "Empire enters golden age"
+                     "[+1 Culture] from every [Palace]",
+                     "[+1 Culture] from every [Walls]",
+                     "[+1 Culture] from every [Castle]",
+                     "[+1 Culture] from every [Arsenal]",
+                     "[+1 Culture] from every [Military Base]",
         ],
         "policies": [
             {
@@ -622,6 +626,7 @@
             {
                 "name": "Noblesse Complete",
                 "uniques": [
+                     "[+1 Happiness] from every [Palace]",
                      "[+1 Happiness] from every [Walls]",
                      "[+1 Happiness] from every [Castle]",
                      "[+1 Happiness] from every [Arsenal]",
