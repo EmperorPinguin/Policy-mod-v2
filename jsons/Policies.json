@@ -501,7 +501,7 @@
                 "name": "Maritime Infrastructure",
                 "uniques": [
                     "[+3 Production] [in all coastal cities]",
-                    "[+1 Production] from every [Fishing Boats]",
+
                 ],
                 "row": 1,
                 "column": 1
@@ -509,10 +509,9 @@
             {
                 "name": "Naval Tradition",
                 "uniques": [
-                    "[+1 Happiness] from every [Lighthouse]",
-                    "[+1 Happiness] from every [Harbor]",
-                    "[+1 Happiness] from every [Seaport]",
-                    "[+2 Culture] from every [Fishing Boats]",
+                    "[+1 Culture, +1 Happiness] from every [Lighthouse]",
+                    "[+1 Culture, +1 Happiness] from every [Harbor]",
+                    "[+1 Culture, +1 Happiness] from every [Seaport]",
                 ],
                 "row": 1,
                 "column": 3
@@ -520,10 +519,7 @@
             {
                 "name": "Merchant Navy",
                 "uniques": [
-                    "[+2 Gold] from every [Lighthouse]",
-                    "[+2 Gold] from every [Harbor]",
-                    "[+2 Gold] from every [Seaport]",
-                    "[+2 Gold] from every [Fishing Boats]",
+                    "[+2 Production, +2 Food, +2 Gold] from every [Fishing Boats]",
                 ],
                 "requires": ["Naval Tradition","Maritime Infrastructure"],
                 "row": 2,
@@ -533,8 +529,8 @@
                 "name": "Navigation School",
                 "uniques": [
                     "[Great General] units gain the [Great Admiral] promotion",
-                    "Free [Great General] appears",
-                    "[+2 Science] from every [Fishing Boats]",
+                    "Free [Great General] appears"
+
                 ],
                 "requires": ["Naval Tradition"],
                 "row": 2,
@@ -545,7 +541,6 @@
                 "uniques": [
                     "[+2] population [in all cities] <on foreign continents>",
                     "[+2 Happiness] [in all cities] <on foreign continents>",
-                    "[+1 Food] from every [Fishing Boats]",
                 ],
                 "requires": ["Merchant Navy"],
                 "row": 3,
