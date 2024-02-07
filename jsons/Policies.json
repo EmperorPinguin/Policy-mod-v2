@@ -237,6 +237,7 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
+                    "[+5 Happiness] from every [Grand Temple]",
                 ],
                 "row": 1,
                 "column": 5
@@ -256,6 +257,7 @@
                 "uniques": [
                     "May choose [1] additional [Pantheon] beliefs when [founding] a religion",
                     "Gain a free [Pantheon] belief <after founding a religion>",
+		"[+3 Culture] from every [Holy site]",
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -264,8 +266,8 @@
             {
                 "name": "Reformation",
                 "uniques": [
-                    "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
-                    "Gain a free [Enhancer] belief <after founding a religion>",
+                    "[+2 Science] from every [Temple]",
+                    "[+3 Science] from every [Holy site]"
                 ],
                 "requires": ["Free Religion"],
                 "row": 3,
@@ -274,8 +276,8 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-		"[+3 Culture] from every [Holy site]",
-		"Free [Great Prophet] appears"
+                    "Provides a [Garden] in your first [4] cities for free",
+                    "Free [Great Prophet] appears"
                 ]
             }
         ]
