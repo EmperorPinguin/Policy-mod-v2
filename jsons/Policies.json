@@ -955,6 +955,7 @@
             {
                 "name": "Energy Transition",
                 "uniques": [
+		"[+100]% Production when constructing [Windmill] buildings [in all cities]",
 		"[+100]% Production when constructing [Hydro Plant] buildings [in all cities]",
 		"[+100]% Production when constructing [Solar Plant] buildings [in all cities]",
 		"[+100]% Production when constructing [Recycling Center] buildings [in all cities]",
