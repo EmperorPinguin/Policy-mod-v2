@@ -4,16 +4,9 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-PolicyIcons/Diplomatic Marriage
-  rotate: false
-  xy: 1212, 141
-  size: 542, 542
-  orig: 542, 542
-  offset: 0, 0
-  index: -1
 PolicyIcons/Divine Rule
   rotate: false
-  xy: 616, 38
+  xy: 1212, 78
   size: 570, 570
   orig: 570, 570
   offset: 0, 0
@@ -21,27 +14,34 @@ PolicyIcons/Divine Rule
 PolicyIcons/Ecotourism
   rotate: false
   xy: 4, 4
-  size: 604, 604
-  orig: 604, 604
+  size: 602, 602
+  orig: 602, 602
+  offset: 0, 0
+  index: -1
+PolicyIcons/Energy Transition
+  rotate: false
+  xy: 1212, 1236
+  size: 578, 578
+  orig: 578, 578
   offset: 0, 0
   index: -1
 PolicyIcons/Imperialism
   rotate: false
-  xy: 1212, 1244
+  xy: 614, 34
   size: 572, 572
   orig: 572, 572
   offset: 0, 0
   index: -1
 PolicyIcons/Permaculture
   rotate: false
-  xy: 1212, 691
-  size: 545, 545
-  orig: 545, 545
+  xy: 1212, 656
+  size: 572, 572
+  orig: 572, 572
   offset: 0, 0
   index: -1
 PolicyIcons/Sustainable Innovation
   rotate: false
-  xy: 4, 616
+  xy: 4, 614
   size: 1200, 1200
   orig: 1200, 1200
   offset: 0, 0
@@ -54,7 +54,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 PolicyIcons/Aerospace Engineering
   rotate: false
-  xy: 934, 938
+  xy: 938, 942
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -68,14 +68,14 @@ PolicyIcons/Artistic Genius
   index: -1
 PolicyIcons/Capitalism
   rotate: false
-  xy: 830, 554
+  xy: 834, 558
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Colonialism
   rotate: false
-  xy: 934, 880
+  xy: 938, 884
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -89,23 +89,23 @@ PolicyIcons/Consulates
   index: -1
 PolicyIcons/Cultural Centers
   rotate: false
-  xy: 830, 496
+  xy: 834, 500
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Exchange
   rotate: false
-  xy: 934, 822
+  xy: 938, 826
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-PolicyIcons/Energy Transition
+PolicyIcons/Diplomatic Marriage
   rotate: false
   xy: 4, 450
-  size: 538, 538
-  orig: 538, 538
+  size: 542, 542
+  orig: 542, 542
   offset: 0, 0
   index: -1
 PolicyIcons/Entrepreneurship
@@ -124,35 +124,35 @@ PolicyIcons/Feudalism
   index: -1
 PolicyIcons/Forest Management
   rotate: false
-  xy: 550, 612
+  xy: 554, 616
   size: 376, 376
   orig: 376, 376
   offset: 0, 0
   index: -1
 PolicyIcons/Free Healthcare
   rotate: false
-  xy: 830, 438
+  xy: 834, 442
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Knightly Order
   rotate: false
-  xy: 550, 332
+  xy: 554, 336
   size: 272, 272
   orig: 272, 272
   offset: 0, 0
   index: -1
 PolicyIcons/Labour Unions
   rotate: false
-  xy: 830, 380
+  xy: 834, 384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Infrastructure
   rotate: false
-  xy: 934, 706
+  xy: 938, 710
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -166,7 +166,7 @@ PolicyIcons/Mercenary Army
   index: -1
 PolicyIcons/Military-Industrial Complex
   rotate: false
-  xy: 934, 648
+  xy: 938, 652
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -187,56 +187,56 @@ PolicyIcons/Monumentality
   index: -1
 PolicyIcons/New Deal
   rotate: false
-  xy: 830, 322
+  xy: 834, 326
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotism
   rotate: false
-  xy: 888, 554
+  xy: 892, 558
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Proletarian Internationalism
   rotate: false
-  xy: 888, 496
+  xy: 892, 500
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Resettlement
   rotate: false
-  xy: 888, 438
+  xy: 892, 442
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Tourism Destination
   rotate: false
-  xy: 888, 380
+  xy: 892, 384
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 888, 322
+  xy: 892, 326
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Great Admiral
   rotate: false
-  xy: 934, 764
+  xy: 938, 768
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 934, 764
+  xy: 938, 768
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
