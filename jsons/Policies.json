@@ -410,7 +410,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+30]% Strength decreasing with distance from the capital",
+                    "[+50]% Golden Age length",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
@@ -750,8 +750,7 @@
             {
                 "name": "Freedom Complete",
                 "uniques": [
-                    "[+100]% Yield from every [Great Improvement]",
-                    "[+50]% Golden Age length",
+                    "[+100]% Yield from every [Great Improvement]"
                 ]
             }
         ]
@@ -822,8 +821,7 @@
             {
                 "name": "Autocracy Complete",
                 "uniques": [
-                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
-                    "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
+                    "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>"
                 ]
             }
         ]
