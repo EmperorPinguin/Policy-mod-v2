@@ -1,9 +1,11 @@
 Images that come from The Noun Project:
 Aerospace Engineering: Rocket by Asep Yopie Hardi Noer
+Aesthetics: Paint Brush by Icogenix
 Ecotourism: scenery by Nabilauzwa
 Energy Transition: Windmill by Vectors Point
 Monumentality: La Sagrada Familia by Wolf Böse
 Capitalism: currency by Laura
+Conservation: leaf by Monjin Friends
 Consulates: School by David Khai
 Cultural Centers: Flourish by Nugraha Wira Menggala
 Cultural Exchange: exchange by Markus
@@ -29,9 +31,10 @@ Tourism Destination: Airplane by Rainbow Designs
 Volunteer Army: soldier by Wonmo Kang
 
 
-Images that come from the base game:
+Images from the base game:
 Artistic Genius - Great Artist
 Colonialism - Settler
 Labour Unions - Worker
 Lightning Warfare/Ingore Zone of Control - Blitz
-Navigation School/Great Admiral - Amphibious
+Navigation School/Great Admiral/Exploration - Amphibious
+Nobility - Monarchy

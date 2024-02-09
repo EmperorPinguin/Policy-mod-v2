@@ -555,7 +555,7 @@
                 ]
 	},
     {
-        "name": "Noblesse",
+        "name": "Nobility",
         "era": "Medieval era",
         "priorities": {
             "Neutral": 10,
@@ -621,7 +621,7 @@
                 "column": 3
             },
             {
-                "name": "Noblesse Complete",
+                "name": "Nobility Complete",
                 "uniques": [
                      "[+1 Happiness] from every [Palace]",
                      "[+1 Happiness] from every [Walls]",
@@ -955,6 +955,7 @@
             {
                 "name": "Energy Transition",
                 "uniques": [
+		"[+100]% Production when constructing [Windmill] buildings [in all cities]",
 		"[+100]% Production when constructing [Hydro Plant] buildings [in all cities]",
 		"[+100]% Production when constructing [Solar Plant] buildings [in all cities]",
 		"[+100]% Production when constructing [Recycling Center] buildings [in all cities]",
