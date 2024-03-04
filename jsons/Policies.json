@@ -372,7 +372,7 @@
             {
                 "name": "Monumentality",
                 "uniques": [
-                    "[+50]% Golden Age length",
+                    "[+50]% Golden Age length"
                 ],
                 "row": 1,
                 "column": 5
@@ -410,7 +410,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+2 Production, +2 Food] [in all cities with a World Wonder]",
+                    "[+2 Production, +2 Food] [in all cities with a world wonder]",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
