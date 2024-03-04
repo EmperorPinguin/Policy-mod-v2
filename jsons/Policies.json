@@ -364,7 +364,7 @@
             {
                 "name": "Cultural Centers",
                 "uniques": [
-                    "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+2 Happiness] from every [World Wonder]"
                 ],
                 "row": 1,
                 "column": 2
@@ -372,7 +372,7 @@
             {
                 "name": "Monumentality",
                 "uniques": [
-                    "[+2 Happiness] from every [World Wonder]"
+                    "[+50]% Golden Age length",
                 ],
                 "row": 1,
                 "column": 5
@@ -410,7 +410,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-                    "[+50]% Golden Age length",
+                    "[+2 Production, +2 Food] [in all cities with a World Wonder]",
                     "May buy [Great Artist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
