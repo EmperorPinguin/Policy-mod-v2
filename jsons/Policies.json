@@ -599,7 +599,7 @@
             {
                 "name": "Knightly Order",
                 "uniques": [
-		    "[Mounted] units gain the [Knightly Order] promotion",
+		    		"[+15]% Strength <for [Mounted] units> <when adjacent to a [Mounted] unit>",
                 ],
                 "requires": ["Feudalism"],
                 "row": 2,
@@ -608,7 +608,7 @@
             {
                 "name": "Diplomatic Marriage",
                 "uniques": [
-                    "Can spend Gold to annex or puppet a City-State that has been your ally for [10] turns.",
+                    
                 ],
                 "requires": ["Divine Rule","Knightly Order"],
                 "row": 3,
@@ -793,8 +793,8 @@
             {
                 "name": "Fascism",
                 "uniques": [
-                    "Quantity of strategic resources produced by the empire +[100]%",
-                    "[+1] Movement <for [All] units>"
+                    "[+100]% [Strategic] resource production",
+                    "[+1] Movement <for [non-{Air}] units>"
                 ],
                 "requires": ["Populism", "Militarism"],
                 "row": 2,
@@ -815,7 +815,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+25]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [15] Experience [in all cities]"
+                    "New [Military] units start with [15] XP [in all cities]"
                 ],
                 "requires": ["Police State", "Fascism"],
                 "row": 3,
@@ -875,7 +875,7 @@
                 "name": "Socialism",
                 "requires": ["Planned Economy"],
                 "uniques": [
-                    "[-25]% maintenance cost for buildings [in all cities]"
+                    "[-25]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "row": 2,
                 "column": 3
